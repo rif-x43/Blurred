@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blurred</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main class="popup">
+      <header class="popup-header">
+        <h1>Blurred</h1>
+        <label class="switch" for="enabled">
+          <input type="checkbox" id="enabled" />
+          <span class="slider" aria-hidden="true"></span>
+        </label>
+      </header>
+
+      <section class="card">
+        <label class="row" for="blurAll">
+          <span>Blur all incoming</span>
+          <input type="checkbox" id="blurAll" />
+        </label>
+      </section>
+
+      <section class="card">
+        <label for="targetPerson">Target person</label>
+        <input id="targetPerson" type="text" placeholder="e.g. Partho Paul" />
+      </section>
+
+      <section class="card">
+        <label for="keywords">Keywords (comma separated)</label>
+        <input id="keywords" type="text" placeholder="e.g. urgent, secret" />
+      </section>
+
+      <section class="card">
+        <label for="blurIntensity">Blur intensity <span id="intensityValue">4px</span></label>
+        <input id="blurIntensity" type="range" min="1" max="20" value="4" />
+      </section>
+
+      <section class="card">
+        <label for="concealMode">Conceal mode</label>
+        <select id="concealMode">
+          <option value="blur">Blur</option>
+          <option value="opaque">Opaque</option>
+        </select>
+      </section>
+
+      <button id="saveBtn" type="button">Save Settings</button>
+      <p id="status" aria-live="polite"></p>
+      <footer class="footer">Made with 🤍 by reusRIFX & 🐣</footer>
+    </main>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
