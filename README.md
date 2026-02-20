@@ -46,3 +46,8 @@ Currently, this extension can be installed manually as an "Unpacked Extension" i
 ## 🔒 Privacy
 
 This extension runs entirely locally in your browser. It does not collect, store, or transmit any of your chat data or personal information. All settings are saved locally using Chrome Sync Storage.
+
+## 👥 Contributors
+
+- [@rif-x43](https://github.com/rif-x43)
+- [@Adiba0308](https://github.com/Adiba0308)
