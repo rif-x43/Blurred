@@ -2,6 +2,15 @@
 
 **Blurred** is a lightweight browser extension designed to enhance your privacy on WhatsApp Web. It allows you to selectively blur or conceal chat messages based on contact names, specific keywords, or simply blur all chats to prevent shoulder-surfing.
 
+<!-- Logos side-by-side, left-aligned with no left space, same visual size -->
+<br><br><hr>
+<p align="center">
+    <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/aust_logo.png" alt="AUST Logo" height="170" />
+    <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/inference_logo.jpg" alt="Inference 54 Logo" height="170" />
+  </a>
+</p>
+<hr>
+
 ## ✨ Features
 
 - **Target Specific Contacts:** Blur messages only from specific people or groups.
@@ -46,3 +55,28 @@ Currently, this extension can be installed manually as an "Unpacked Extension" i
 ## 🔒 Privacy
 
 This extension runs entirely locally in your browser. It does not collect, store, or transmit any of your chat data or personal information. All settings are saved locally using Chrome Sync Storage.
+
+## Contributors
+
+## Contact
+- `@rif-x43`
+  <p align="left">
+  <!-- GitHub: white glyph on dark circular background -->
+  <a href="https://github.com/rif-x43" aria-label="GitHub">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="28" height="28" alt="GitHub"
+         style="background-color:#181717;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
+  </a>&nbsp;
+  <!-- X (Twitter): white glyph on black circular background -->
+  <a href="https://x.com/rif__x43" aria-label="X">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="28" height="28" alt="X"
+         style="background-color:#000000;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
+  </a>&nbsp;
+  <!-- Facebook: white glyph on Facebook blue circular background -->
+  <a href="https://www.facebook.com/rif.x43i" aria-label="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/ffffff" width="28" height="28" alt="Facebook"
+         style="background-color:#1877F2;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
+  </a>
+</p>
+<hr width="25%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="120" height="120" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="120" height="120" />
