@@ -3,10 +3,10 @@
 **Blurred** is a lightweight browser extension designed to enhance your privacy on WhatsApp Web. It allows you to selectively blur or conceal chat messages based on contact names, specific keywords, or simply blur all chats to prevent shoulder-surfing.
 
 <!-- Logos side-by-side, left-aligned with no left space, same visual size -->
-<br><br><hr>
+<br>
 <p align="center">
-    <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/aust_logo.png" alt="AUST Logo" height="170" />
-    <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/inference_logo.jpg" alt="Inference 54 Logo" height="170" />
+    <img src="https://github.com/rif-x43/Blurred/blob/main/drafts/logo_purple.png" alt="Blurred Logo" height="200" />
+    <img src="https://github.com/rif-x43/Blurred/blob/main/drafts/logo_white.png" alt="Blurred Logo" height="200" />
   </a>
 </p>
 <hr>
@@ -57,6 +57,8 @@ Currently, this extension can be installed manually as an "Unpacked Extension" i
 This extension runs entirely locally in your browser. It does not collect, store, or transmit any of your chat data or personal information. All settings are saved locally using Chrome Sync Storage.
 
 ## Contributors
+- `@rif-x43`
+- `@Adiba0308`
 
 ## Contact
 - `@rif-x43`
