@@ -67,8 +67,8 @@ This extension runs entirely locally in your browser. It does not collect, store
 - [`@rif-x43`](https://github.com/rif-x43)
 - [`@Adiba0308`](https://github.com/Adiba0308)
 
-[![rif-x43](https://img.shields.io/badge/@rif--x43-000000?style=for-the-badge)](https://github.com/rif-x43)
-[![Adiba0308](https://img.shields.io/badge/@Adiba0308-000000?style=for-the-badge)](https://github.com/Adiba0308)
+[![rif-x43](https://img.shields.io/badge/©Mohammed_Rif_Ahsan-000000?style=for-the-badge)](https://github.com/rif-x43)
+[![Adiba0308](https://img.shields.io/badge/©Adiba_Binte_Masud-000000?style=for-the-badge)](https://github.com/Adiba0308)
 
 ## Contact
 - `@rif-x43`
