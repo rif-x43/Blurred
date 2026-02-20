@@ -39,8 +39,8 @@ Currently, this extension can be installed manually as an "Unpacked Extension" i
 3. Configure your settings:
    - **Enable/Disable:** Toggle the extension on or off.
    - **Blur All:** Check this to blur every message.
-   - **Target Person:** Enter the exact name of a contact or group to blur their messages.
-   - **Keywords:** Enter comma-separated keywords to blur messages containing them.
+   - **Target Person:** Enter the exact name of a contact you saved [e.g Partho Gay] to blur / opaque their messages.
+   - **Keywords:** Enter comma-separated words [Partho, Gay] to blur / opaque messages containing them.
    - **Blur Intensity:** Use the slider to adjust how blurry the text appears.
    - **Conceal Mode:** Choose between "Blur" or "Opaque".
 4. Click **Save**. The changes will apply immediately to your active WhatsApp Web tab.
