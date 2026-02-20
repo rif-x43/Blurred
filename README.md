@@ -45,6 +45,13 @@ Currently, this extension can be installed manually as an "Unpacked Extension" i
    - **Conceal Mode:** Choose between "Blur" or "Opaque".
 4. Click **Save**. The changes will apply immediately to your active WhatsApp Web tab.
 
+<br>
+<p align="center">
+    <img src="https://github.com/rif-x43/Blurred/blob/main/drafts/blurred_extension.png" alt="Blurred Extension" height="400" />
+  </a>
+</p>
+<br>
+
 ## 📁 Project Structure
 
 - `manifest.json`: The extension's configuration and permissions.
