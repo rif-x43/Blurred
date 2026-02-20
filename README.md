@@ -43,6 +43,7 @@ Currently, this extension can be installed manually as an "Unpacked Extension" i
    - **Keywords:** Enter comma-separated words [Partho, Gay] to blur / opaque messages containing them.
    - **Blur Intensity:** Use the slider to adjust how blurry the text appears.
    - **Conceal Mode:** Choose between "Blur" or "Opaque".
+   - **Reveal:** Select or double click a blurred / opaqued message to reveal it and vice versa.
 4. Click **Save**. The changes will apply immediately to your active WhatsApp Web tab.
 
 <br>
